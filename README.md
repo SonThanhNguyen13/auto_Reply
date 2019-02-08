@@ -24,7 +24,7 @@ Anyone =)))
    (if you left it blank, bot will not send any sticker)
    
 5. Click 'Login & Run' button or just press 'Enter' to run it. 
-   If login sucess, you will see  
+   If login success, you will see  
    
    ![sucess](https://user-images.githubusercontent.com/45412532/52462243-d7671a00-2ba4-11e9-9fdd-47b47048fd9a.png)
 
