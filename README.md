@@ -1,5 +1,5 @@
 # auto_Reply
-My simple app to automatically reply message on Facebook
+My simple app to automatically reply message on Facebook  
 NOTE: Only available on Ubuntu
 
 ![interface](https://user-images.githubusercontent.com/45412532/52256775-ac818980-294a-11e9-9136-8d54a52b48d5.png)
