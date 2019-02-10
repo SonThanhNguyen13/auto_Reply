@@ -10,7 +10,7 @@ Anyone =)))
 
 ### Using:
 #### On Ubuntu:  
-   Run bot in bot/dist
+   Run bot in bot/dist or run bot.py in source code (you have to install packets source_code/requirements.txt first)
 
 #### On Windows:  
    Install packets in source_code/requirements.txt (pip install -r requirements.txt)  
