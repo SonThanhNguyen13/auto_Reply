@@ -8,23 +8,21 @@ My simple app to automatically reply message on Facebook
 ### Who should use this?
 Anyone =)))
 
-### Using:
+### Requirements:
+   Python3  
    Install packets in source_code/requirements.txt (pip3 install -r requirements.txt)  
-   Run bot.py in source_code/ (python3 bot.py)
 
-#### After that:  
-1. Enter Facebook's login Email and Password  
-   (Don't worry about losing your facebook account, I'm not that good yet :D)
-   
-2. Enter the message you want to send in the Message field  
+### Using:
+1. Run bot.py in source_code/ (python3 bot.py)  
+2. Enter Facebook's login Email and Password  
+   (Don't worry about losing your facebook account, I'm not that good yet :D)  
+3. Enter the message you want to send in the Message field  
    (Message sent by bot will be 'Auto message: * your message *')  
-   If you left it blank,  message will be 'Auto message:'
-   
-3. Enter facebook's sticker id if you want to send a sticker.  
+   If you left it blank,  message will be 'Auto message:'  
+4. Enter facebook's sticker id if you want to send a sticker.  
    Some sticker's id can be found in [here](http://autofb.net/tools/lay_id_sticker/)  
-   (if you left it blank, bot will not send any sticker)
-   
-4. Click 'Login & Run' button or just press 'Enter' to run it. 
+   (if you left it blank, bot will not send any sticker)  
+5. Click 'Login & Run' button or just press 'Enter' to run it. 
    If login success, you will see  
    
    ![sucess](https://user-images.githubusercontent.com/45412532/52462243-d7671a00-2ba4-11e9-9fdd-47b47048fd9a.png)
@@ -43,7 +41,7 @@ Anyone =)))
    
    NOTE: MESSAGE WILL ONLY SENT ONCE TO EACH OTHER USER TO AVOID BEING SPAM  
 
-p/s: Code can be found in /source_code with a requirements.txt (written in Python3)
+
 
   
  ### Author:
