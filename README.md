@@ -9,12 +9,8 @@ My simple app to automatically reply message on Facebook
 Anyone =)))
 
 ### Using:
-#### On Ubuntu:  
-   Run bot in bot/dist or run bot.py in source code (you have to install packets source_code/requirements.txt first)
-
-#### On Windows:  
-   Install packets in source_code/requirements.txt (pip install -r requirements.txt)  
-   Run bot.py in source_code/ (python bot.py)
+   Install packets in source_code/requirements.txt (pip3 install -r requirements.txt)  
+   Run bot.py in source_code/ (python3 bot.py)
 
 #### After that:  
 1. Enter Facebook's login Email and Password  
