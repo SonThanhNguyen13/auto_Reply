@@ -2,7 +2,8 @@
 My simple app to automatically reply message on Facebook  
 
 
-![interface](https://user-images.githubusercontent.com/45412532/52256775-ac818980-294a-11e9-9136-8d54a52b48d5.png)
+![interface](https://user-images.githubusercontent.com/45412532/53079866-f2814480-3529-11e9-968d-d7d6ebe56d6c.png)
+
 
 
 ### Who should use this?
@@ -37,7 +38,10 @@ Anyone =)))
    
    ![error](https://user-images.githubusercontent.com/45412532/52462181-a38bf480-2ba4-11e9-9ee2-dc603e012526.png)
    
+   If you want to stop auto-sending, press Stop!!!. You will see
    
+   ![stop](https://user-images.githubusercontent.com/45412532/53079928-193f7b00-352a-11e9-8a18-a11e3765607d.png)
+
    
    NOTE: MESSAGE WILL ONLY SENT ONCE TO EACH OTHER USER TO AVOID BEING SPAM  
 
